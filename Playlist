@@ -3,3 +3,6 @@
 #jbd
 #EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17119894_ico.png?ts=1639035805" group-title="Bangladesh", Bangladesh television
 http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17119995_ico.png?ts=1639036375" group-title="Bangladesh",BTV World
+http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
