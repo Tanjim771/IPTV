@@ -6,3 +6,7 @@ http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17119995_ico.png?ts=1639036375" group-title="Bangladesh",BTV World
 http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh",Sangsad Tv
+http://stream.wowzacdn.com/kfhsiw49a/fdkfj84_jfy/sangsad.m3u8
+
