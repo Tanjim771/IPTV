@@ -10,3 +10,14 @@ http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh",Sangsad Tv
 http://stream.wowzacdn.com/kfhsiw49a/fdkfj84_jfy/sangsad.m3u8
 
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRZyKrqb9FYY74ZKrjlrTpx3eErY8OX-APyoTKy=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",BTV Chittagong
+http://stream.wowzacdn.com/3Hsj5gfh/9fhejb_2kf/btv_ctg.m3u8
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="Bangladesh",ATN Bangla
+http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangladesh",Channel I HD
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangladesh",Ekhushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
