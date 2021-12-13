@@ -67,7 +67,7 @@ https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 #EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladesh",Somoy TV
 http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
 
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/D675kgwgVKJ2UOhYT2rP4XSIdEtESzUfX1W1fy1nH--ZjicIqSj-Ly1ZSRpS5sp2zxfpDl9ZPsMVsG_24Dx9WiY2Ixk" group-title="Bangladesh",Channel 24 HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangladesh",Channel 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRS_N5kWe_MExBd2a5ZbnfGM-bD8okthdpQqpRGhg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",Ekattor TV HD
@@ -81,3 +81,12 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpaELcGGIQLQ5PmXlTiCZY4z75Fqal8Vsxw&usqp=CAU" group-title="Bangladesh",DBC News HD
 http://103.159.4.38:8080/BD-BANGLA-13/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohZM1un9pMGU_T8e4MHBDxTMA42_Zxxx5Wg&usqp=CAU" group-title="Bangladesh",Gaan Bangla TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU" group-title="Bangladesh",Duronto TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocq9rQM_YUOPnJWenwrtvT8WUn3KjVF5mcQ&usqp=CAU" group-title="Bangladesh",Bijoy TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
