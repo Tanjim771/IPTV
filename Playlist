@@ -4,7 +4,7 @@
 #EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17119894_ico.png?ts=1639035805" group-title="Bangladesh", Bangladesh television
 http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17119995_ico.png?ts=1639036375" group-title="Bangladesh",BTV World
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7B-2xPabAg5M-YwCKGTCu6E7f0DaAUTNAg&usqp=CAU" group-title="Bangladesh",BTV World
 http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh",Sangsad Tv
@@ -78,3 +78,6 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh",News 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpaELcGGIQLQ5PmXlTiCZY4z75Fqal8Vsxw&usqp=CAU" group-title="Bangladesh",DBC News HD
+http://103.159.4.38:8080/BD-BANGLA-13/tracks-v1a1/mono.m3u8
