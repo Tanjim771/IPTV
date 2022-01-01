@@ -88,5 +88,5 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU" group-title="Bangladesh",Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://gumlet.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2016%2F49483_1_home_big.jpg?format=webp&w=400&dpr=2.6" group-title="India",Sony Entertaiment Telivision HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="India",Sony Entertaiment Telivision HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
