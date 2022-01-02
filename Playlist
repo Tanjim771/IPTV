@@ -99,3 +99,9 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="India",Colors Cineplex HD
 http://208.86.19.21:80/735.stream/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/d0/04/95/d00495d07bb2f6e0856b9f8b92b9bf20.png" group-title="India",Zee TV HD
+http://208.86.19.21/606.stream/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="India",Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
