@@ -88,10 +88,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU" group-title="Bangladesh",Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="India",Sony Entertaiment Telivision HD
+#EXTINF: -1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="India",Sony Entertaiment Telivision HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/423-4231206_sony-max-hd-hindi-movie-text-png-transparent.png" group-title="India",Sony Max HD
+#EXTINF: -1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_187.png" group-title="India",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="India",Colors HD
