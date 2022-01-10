@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="Bangladesh",ATN Bangla
+http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
