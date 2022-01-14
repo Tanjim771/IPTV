@@ -88,6 +88,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU" group-title="Bangladesh",Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/%26TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20161205163141" group-title="Hindi",&TV HD
+http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
+
 #EXTINF: -1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="Sony Pictures Network India",Sony Entertaiment Telivision HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
