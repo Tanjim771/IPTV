@@ -14,7 +14,7 @@ http://stream.wowzacdn.com/kfhsiw49a/fdkfj84_jfy/sangsad.m3u8
 http://stream.wowzacdn.com/3Hsj5gfh/9fhejb_2kf/btv_ctg.m3u8
 
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="Bangladesh",ATN Bangla (480p)
-http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangladesh",Channel I HD (1080p)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
@@ -24,6 +24,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV
 http://208.86.19.21/712.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17119995_ico.png?ts=1639036375" group-title="Bangladesh",RTV HD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1160px-Boishakhi_TV_logo.svg.png" group-title="Bangladesh",Boishakhi TV (720p)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
@@ -87,30 +90,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU" group-title="Bangladesh",Duronto TV (1080p)
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/%26TV_HD.jpg/revision/latest/scale-to-width-down/250?cb=20161205163141" group-title="Hindi",&TV HD
-http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
-
-#EXTINF: -1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="Sony Pictures Network India",Sony Entertaiment Telivision HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_160.png" group-title="Sony Pictures Network India",Sony Sab HD
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6579/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_187.png" group-title="India",Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="India",Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="India",Colors Cineplex HD
-http://208.86.19.21:80/735.stream/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/d0/04/95/d00495d07bb2f6e0856b9f8b92b9bf20.png" group-title="India",Zee TV HD
-http://208.86.19.21/606.stream/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="India",Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Tv_teresstrial_dd.png/revision/latest?cb=20160528070534" group-title="India",DD National (576p)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
