@@ -145,7 +145,7 @@ http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
 #EXTINF: -1 tvg-logo="http://himsonepat.org/him/wp-content/uploads/2015/07/amar-ujala-logo.png" group-title="India",Amar Ujala (360p)
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="Bangladesh",Anjan TV (720p)
+#EXTINF: -1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="India",Anjan TV (720p)
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/564x/36/12/5d/36125d5108b2cb9d3e69579e6b70fdbd.jpg" group-title="India",Artist Aloud (1080p)
