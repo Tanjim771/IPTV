@@ -150,3 +150,18 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/564x/36/12/5d/36125d5108b2cb9d3e69579e6b70fdbd.jpg" group-title="India",Artist Aloud (1080p)
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321" group-title="India",B4U Bhojpuri (576p)
+http://14.199.164.20:4001/play/a0nq/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://st2.depositphotos.com/1152339/7096/i/950/depositphotos_70969439-stock-photo-web-design-concept-iptv-on.jpg" group-title="India",B4U Hitz (720p)
+http://14.199.164.20:4001/play/a0wh/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818" group-title="India",B4U Kadak (576p)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="India",B4U movies (576p)
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWoBtKGiQDAKCMd8MV8MrAg3ZDZOPGKAppfw_i2qXbEuC0z34f8Ek8cmO6wwlyKzGMf4&usqp=CAU" group-title="India",B4U Music (576p)
+http://14.199.164.20:4001/play/a0wk/index.m3u8
