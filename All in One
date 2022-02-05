@@ -106,13 +106,13 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD
 http://103.70.140.27:8080/hls/tsports.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/9X_Jalwa_2012.jpg/revision/latest?cb=20180603135659" group-title="India",9X Jalwa (576p)
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1260UNl.png" group-title="India",9X Jalwa (576p)
 http://14.199.164.20:4001/play/a0nc/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9X_Jhakaas_2011.jpg/revision/latest/scale-to-width-down/220?cb=20180603140119",9X Jhakaas (576p)
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9xjhakaas-black.svg/revision/latest/scale-to-width-down/280?cb=20210508164415" group-title="India",9X Jhakaas (576p)
 http://14.199.164.20:4001/play/a0mx/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" group-title="India",9XM (480p)
+#EXTINF: -1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="India",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2019/01/Aajtak-HD_8.jpg" group-title="India",Aaj Tak HD (720p)
@@ -132,3 +132,21 @@ https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/ABP_News_logo.jpg" group-title="India",ABP Hindi (324p)
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/ABP_Majha_Logo.png" group-title="India",ABP Majha (720p)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/ABP_News_Logo.png" group-title="India",ABP News (720p)
+http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/ABP_Sanjha_Logo.png" group-title="India",ABP Sanjha
+http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
+
+#EXTINF: -1 tvg-logo="http://himsonepat.org/him/wp-content/uploads/2015/07/amar-ujala-logo.png" group-title="India",Amar Ujala (360p)
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="Bangladesh",Anjan TV (720p)
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/564x/36/12/5d/36125d5108b2cb9d3e69579e6b70fdbd.jpg" group-title="India",Artist Aloud (1080p)
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
