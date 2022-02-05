@@ -106,17 +106,29 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD
 http://103.70.140.27:8080/hls/tsports.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Tv_teresstrial_dd.png/revision/latest?cb=20160528070534" group-title="India",DD National (576p)
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/9X_Jalwa_2012.jpg/revision/latest?cb=20180603135659" group-title="India",9X Jalwa (576p)
+http://14.199.164.20:4001/play/a0nc/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/DVag2TSu.jpg/revision/latest/scale-to-width-down/200?cb=20160805130619" group-title="India",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9X_Jhakaas_2011.jpg/revision/latest/scale-to-width-down/220?cb=20180603140119",9X Jhakaas (576p)
+http://14.199.164.20:4001/play/a0mx/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="India",Sony Entertaiment Telivision HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" group-title="India",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg/revision/latest?cb=20200122175739" group-title="India",Sony Pal
-https://pubads.g.doubleclick.net/ssai/event/11O4fBjGSwWlNUCxWhgHhg/master.m3u8
+#EXTINF: -1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2019/01/Aajtak-HD_8.jpg" group-title="India",Aaj Tak HD (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SABTVHD1_Masthead_logo.png" group-title="India",Sony Sab HD
-https://edge4.bioscopelive.com/hls/anonymous/0sX90UhCelyKWF3Tlk4aGg/1643988309/live-sony-sab-tv-india_hi/index.m3u8
+#EXTINF: -1 tvg-logo="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/29472269_1577272925642590_463129484623609856_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=RAPgiYHFbIcAX8s1RTJ&_nc_ht=scontent.fdac8-1.fna&oh=00_AT88hnaaxsrv6vW4L9To6_jiGC1mNK9NFdLu81oewIRwtw&oe=6224E746" group-title="India",Aathavan TV HD (720p)
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e8/%E0%A6%8F%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%BF_%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="India",ABP Ananda (720p)
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/ABP_Asmita.png/revision/latest?cb=20201222101557" group-title="India",ABP Asmita (324p)
+http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/ABP_Asmita.png/revision/latest?cb=20201222101557" group-title="India",ABP Asmita (720p)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/ABP_News_logo.jpg" group-title="India",ABP Hindi (324p)
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
