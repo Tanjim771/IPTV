@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JOR9cPb.jpg" group-title="Information",Welcome
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JOR9cPb.jpg" group-title="###Information###",Welcome
 http://test.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17119894_ico.png?ts=1639035805" group-title="Bangladesh", Bangladesh television (720p)
