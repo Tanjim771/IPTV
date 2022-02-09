@@ -171,3 +171,33 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWoBtKGiQDAKCMd8MV8MrAg3ZDZOPGKAppfw_i2qXbEuC0z34f8Ek8cmO6wwlyKzGMf4&usqp=CAU" group-title="India",B4U Music (576p)
 http://14.199.164.20:4001/play/a0wk/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/B4U_Plus.jpeg/revision/latest?cb=20200225090223" group-title="India",B4U Plus (720p)
+http://14.199.164.20:4001/play/a0wi/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ffp4AOX5oDE/YGcW9wA_ZXI/AAAAAAAAyMM/3j2Az2zqeRc4NivnINo5KAZbXE91F4KfQCLcBGAsYHQ/s237/Bflix_Movies-logo-old.png" group-title="India",Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158" group-title="India",Box Cinema (576p)
+http://14.199.164.20:4001/play/a0su/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Tv_teresstrial_dd.png/revision/latest?cb=20160528070534" group-title="India",DD National (576p)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg/revision/latest?cb=20160805130411" group-title="India",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png/revision/latest?cb=20190204154300" group-title="India",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908" group-title="India",Music India (576p)
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://era-global.org/system/imgs/584/big/naaptol-logo.jpg" group-title="India",Naaptol TV (576p)
+http://14.199.164.20:4001/play/a0n1/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/detail/82-828788_national-geographic-channel-logo-vector-national-geographic.png" group-title="India",National Geographic HD
+http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1280px-NDTV_logo.svg.png" group-title="India",NDTV (480p) [24x7]
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
