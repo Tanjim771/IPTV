@@ -14,8 +14,5 @@ You can also use the Shorten link : https://bit.ly/3KV2Wd3
 
 3.VLC Media player : https://www.videolan.org/vlc/download-windows.html
 
-### Android
-
-
 ### IOS
 1.GSE Smart IPTV : https://apps.apple.com/us/app/gse-smart-iptv/id1028734023
