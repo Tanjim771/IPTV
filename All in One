@@ -23,7 +23,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV
-http://208.86.19.21/712.stream/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh",RTV HD (1080p)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
@@ -50,7 +50,7 @@ http://103.159.4.38:8080/BD-BANGLA-19/mono.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangladesh",GTV HD
-http://live.flixhub.net/hls/Gazi-TV.m3u8
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w916501545_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ1NDQyMjYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ1NDM1MjYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9SGJidm5McmlHV3l2eHhyREkyRUdoaFZ2SUI5YnlfZmNrVHFxNlVBcksybz0=.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangladesh",Asian TV HD (480p)
 http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
