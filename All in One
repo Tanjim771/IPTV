@@ -50,7 +50,7 @@ http://103.159.4.38:8080/BD-BANGLA-19/mono.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangladesh",GTV HD
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w916501545_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ1NDQyMjYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ1NDM1MjYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9SGJidm5McmlHV3l2eHhyREkyRUdoaFZ2SUI5YnlfZmNrVHFxNlVBcksybz0=.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangladesh",Asian TV HD (480p)
 http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
@@ -107,7 +107,7 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD (1080p)
-http://live.flixhub.net/hls/t-sports.m3u8
+http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1260UNl.png" group-title="India",9X Jalwa (576p)
 http://14.199.164.20:4001/play/a0nc/index.m3u8
@@ -248,7 +248,13 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 https://sneh-z5api.herokuapp.com/?c=0-9-ddbangla
 
 #EXTINF: -1 tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Indian Bangla",Colors Bangla HD (1080p)
-http://live.flixhub.net/hls/colorsbangla.m3u8
+http://103.166.253.222/hls/colorsbangla.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/201878862_193409076143284_292243025291665213_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BZsya9VwsYwAX9qDti8&_nc_ht=scontent.fdac8-1.fna&oh=00_AT_wQ10Y3stZoVEHcyD3gGixy3L3j1SAfMVKj-fYmtFhIw&oe=62292244" group-title="Indian Bangla",Ruposhi Bangla
+https://yuppcatchup.akamaized.net/preview/rupashibangala/1800.m3u8?hdnts=st=1612630459~exp=1612631059~acl=!*/20/preview/rupashibangala/*!/payload/yuppTVCom_61_-1_d8ba0603680e4389_BD_103
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony Aath (576p)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
@@ -257,25 +263,40 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://208.86.19.21/908.stream/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest/scale-to-width-down/181?cb=20210520141819" group-title="Indian Bangla",Star Jalsha HD (1080p)
-http://live.flixhub.net/hls/starjalsha.m3u8
+http://103.166.253.222/hls/starjalsha.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/14/Sun_Bangla_logo_%282019%29.png/revision/latest?cb=20210421015708" group-title="Indian Bangla",Sun Bangla (480p)
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla",Zee Bangla
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla",
 http://103.205.133.48/hls/zeebangla.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/200?cb=20210509201933" group-title="Indian Bangla",Zee Bangla HD
-http://live.flixhub.net/hls/zeebanglahd.m3u8
+http://103.166.253.222/hls/zeebanglahd.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/300?cb=20210509174741" group-title="Indian Bangla",Zee 24 Ghanta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_10.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla",Zee bangla Cinema
-http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
+http://103.166.253.222/hls/zee-bangla-cinema.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/220?cb=20190806073703" group-title="Indian Bangla",Jalsha Movies HD (1080p)
-http://live.flixhub.net/hls/jalshamovies.m3u8
+http://103.166.253.222/hls/jalshamovies.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest/scale-to-width-down/190?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema
-http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
+http://103.166.253.222/hls/colore-bangla-cinema.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD
+http://103.166.253.222/hls/stersports1hd.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD
+http://103.166.253.222/hls/starsports2.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest/scale-to-width-down/230?cb=20200305070419" group-title="Sports",Star Sports 3 HD
+http://demo.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD
+http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="Sports",Star Sports Select 2 HD
+http://103.166.253.222/hls/select2.m3u8
