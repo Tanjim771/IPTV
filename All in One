@@ -286,6 +286,18 @@ http://103.166.253.222/hls/jalshamovies.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest/scale-to-width-down/190?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema
 http://103.166.253.222/hls/colore-bangla-cinema.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #1 (360p)
+https://playback.akamaized.net/streams/5057055_10244822_lsi4w3u64d6ofl1vmw1_1/media/5057055_10244822_lsi4w3u64d6ofl1vmw1_1@728000p.m3u8?dw=80&ts=1647334800&hdnts=exp=1647509017~acl=/streams/5057055_10244822_lsi4w3u64d6ofl1vmw1_1/media*~hmac=0bca2baf8408c074d7eede0ff454c1e75144b4f655f4c2fd3d0c118593285f65
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #2 (1080p)
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #3 (Auto)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #4 (1080p)
+http://nayeem-tv.myftp.biz:8080/live/nour2020/123456/93634.m3u8?token=QhZdWUdRRwsQXwtTUFJQAFBUVwVRB1cAUwACC1EABwcKUA1ZAApTA1AbFENCERcDVQxpXwJEXAgCBQUGT0RERlxGalFQG18TBQoOWAVHSURACFtTRFxXBwUEBgJXUQMCFRZFUVAbXxMBAABQA0dJRFEZQlMUCAddbldTRAoFVBcDWkBUWBVHXlxmXARcBAsCFlsUB0RKRFhCQxQIDRNdWRUWV1FASwRFVxsCQwJVVVIWTRRVCRMIRUNKFAhBJHUXFRZQQEBcC0JbVlZDC0cRFRZNFF8VORRUQkdEVwILVEcbDhcIFhVHXFNBZwJeCwsDVxVfWQgVRAsTAhQeQQteW1BAWkprSQxVEAMaVABSVFUWHA==
+
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD
 http://103.166.253.222/hls/stersports1hd.m3u8
 
