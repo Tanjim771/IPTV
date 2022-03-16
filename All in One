@@ -298,6 +298,24 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #4 (1080p)
 http://nayeem-tv.myftp.biz:8080/live/nour2020/123456/93634.m3u8?token=QhZdWUdRRwsQXwtTUFJQAFBUVwVRB1cAUwACC1EABwcKUA1ZAApTA1AbFENCERcDVQxpXwJEXAgCBQUGT0RERlxGalFQG18TBQoOWAVHSURACFtTRFxXBwUEBgJXUQMCFRZFUVAbXxMBAABQA0dJRFEZQlMUCAddbldTRAoFVBcDWkBUWBVHXlxmXARcBAsCFlsUB0RKRFhCQxQIDRNdWRUWV1FASwRFVxsCQwJVVVIWTRRVCRMIRUNKFAhBJHUXFRZQQEBcC0JbVlZDC0cRFRZNFF8VORRUQkdEVwILVEcbDhcIFhVHXFNBZwJeCwsDVxVfWQgVRAsTAhQeQQteW1BAWkprSQxVEAMaVABSVFUWHA==
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #5 (1080p)
+hhttp://alllivesportslinks.myftp.biz/hls/sonyten1.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #6 (288p)
+https://ib.qqkkqqk.com/live/ch_5.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #7 (576p)
+http://80.237.96.66:9090/stream/channelid/1429424341.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #8 (576p)
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #9 (Auto)
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #10 (576p)
+http://80.237.96.66:9090/stream/channelid/1447584418.m3u8
+
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD
 http://103.166.253.222/hls/stersports1hd.m3u8
 
@@ -312,3 +330,9 @@ http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="Sports",Star Sports Select 2 HD
 http://103.166.253.222/hls/select2.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20191227182531" group-title="Sports",BT Sports 1 HD (1080p)
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182617" group-title="Sports",BT Sports 2 HD (1080p)
+http://93.152.174.144:4000/play/btsport2/index.m3u8
