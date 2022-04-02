@@ -256,10 +256,10 @@ http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 #EXTINF: -1 tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Indian Bangla",Colors Bangla HD (1080p)
 https://rebrand.ly/tanjim771/5d4f2a/colorsbanglahd
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (576p)
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/201878862_193409076143284_292243025291665213_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BZsya9VwsYwAX9qDti8&_nc_ht=scontent.fdac8-1.fna&oh=00_AT_wQ10Y3stZoVEHcyD3gGixy3L3j1SAfMVKj-fYmtFhIw&oe=62292244" group-title="Indian Bangla",Ruposhi Bangla
+#EXTINF: -1 tvg-logo="https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/201878862_193409076143284_292243025291665213_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=QTvB_ARBxxsAX-GTPfk&_nc_ht=scontent.fdac8-1.fna&oh=00_AT_5blxsVNAS1Ug0B3SuUlxkY860OAOs23kdF3MImevX_Q&oe=624CBAC4" group-title="Indian Bangla",Ruposhi Bangla (480p)
 https://yuppcatchup.akamaized.net/preview/rupashibangala/1800.m3u8?hdnts=st=1612630459~exp=1612631059~acl=!*/20/preview/rupashibangala/*!/payload/yuppTVCom_61_-1_d8ba0603680e4389_BD_103
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony Aath (576p)
@@ -270,6 +270,9 @@ http://208.86.19.21/908.stream/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest/scale-to-width-down/181?cb=20210520141819" group-title="Indian Bangla",Star Jalsha HD (1080p)
 https://rebrand.ly/tanjim771/e3c030/starjalshahd
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest/scale-to-width-down/181?cb=20210520141819" group-title="Indian Bangla",Star Jalsha HD 2 (1080p)
+https://rebrand.ly/tanjim771/ae30e2/channel-id-25489145071829131383
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/14/Sun_Bangla_logo_%282019%29.png/revision/latest?cb=20210421015708" group-title="Indian Bangla",Sun Bangla (480p)
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
@@ -292,8 +295,8 @@ https://rebrand.ly/tanjim771/8db42e/jalshamovieshd
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest/scale-to-width-down/190?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (1080p)
 https://rebrand.ly/tanjim771/947dc9/colorsbanglacinema
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #1 (360p)
-https://playback.akamaized.net/streams/5057055_10244822_lsi4w3u64d6ofl1vmw1_1/media/5057055_10244822_lsi4w3u64d6ofl1vmw1_1@728000p.m3u8?dw=80&ts=1647334800&hdnts=exp=1647509017~acl=/streams/5057055_10244822_lsi4w3u64d6ofl1vmw1_1/media*~hmac=0bca2baf8408c074d7eede0ff454c1e75144b4f655f4c2fd3d0c118593285f65
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #1 (576p)
+https://rebrand.ly/tanjim771/271379/channel-id-14390379447332066611
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #2 (1080p)
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
@@ -304,23 +307,26 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #4 (1080p)
 http://nayeem-tv.myftp.biz:8080/live/nour2020/123456/93634.m3u8?token=QhZdWUdRRwsQXwtTUFJQAFBUVwVRB1cAUwACC1EABwcKUA1ZAApTA1AbFENCERcDVQxpXwJEXAgCBQUGT0RERlxGalFQG18TBQoOWAVHSURACFtTRFxXBwUEBgJXUQMCFRZFUVAbXxMBAABQA0dJRFEZQlMUCAddbldTRAoFVBcDWkBUWBVHXlxmXARcBAsCFlsUB0RKRFhCQxQIDRNdWRUWV1FASwRFVxsCQwJVVVIWTRRVCRMIRUNKFAhBJHUXFRZQQEBcC0JbVlZDC0cRFRZNFF8VORRUQkdEVwILVEcbDhcIFhVHXFNBZwJeCwsDVxVfWQgVRAsTAhQeQQteW1BAWkprSQxVEAMaVABSVFUWHA==
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #5 (1080p)
-hhttp://alllivesportslinks.myftp.biz/hls/sonyten1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #5 (Auto)
+https://vkvsd52.mycdn.me/hls/2346562488856.m3u8/sig/l3n6e2eVb-8/expires/1648978845684/srcIp/103.251.59.60/clientType/13/srcAg/CHROME_ANDROID/mid/4012642282264/video.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #6 (288p)
-https://ib.qqkkqqk.com/live/ch_5.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #6 (Auto)
+https://vkvsd4.mycdn.me/hls/2449913285171.m3u8/sig/9rrFDcS4DAo/expires/1648978796254/srcIp/103.251.59.60/clientType/13/srcAg/CHROME_ANDROID/mid/4025986526003/video.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #7 (576p)
 http://80.237.96.66:9090/stream/channelid/1429424341.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #8 (576p)
-https://16live00.akamaized.net/BTSPORTS2/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #8
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15V2/master.m3u8?hdnea=st=1648895627~exp=1648895927~acl=*~id=dc558057-9fdb-4638-a446-a3737b92699c~hmac=d84e239b86c48ac116a7b5752abc2097619d83df9752e54e82e5c70250ce0a82&originpath=/linear/hls/pb/event/RLuKHGGZS72Dss9NPWaldw/stream/8126f568-c7b0-42ca-940f-705e6d0c8145:SIN/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #9 (Auto)
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/npaY8scMVUjEZVSyS0vjlt3XqQTWCW44gpRxfkTo1Nd3jemMXcwJEhF5YmK2cFBmiDo3eoeiiC4STnt6kHCzXw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #10 (576p)
 http://80.237.96.66:9090/stream/channelid/1447584418.m3u8
+
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6kWuLVbI0aIpuAPvE_gra2AuVt0_6d24u-m10Axnql1DwhOWgnmwMRPuLTgKNrYUayQP527LkMJrVDTSrBF5WOOUF5cqaluAQBTP_2On7loi8jfxQGYhpy1B4gz4ShWlbtm2zvLZ-a23P0fPOEYvZeyUWXcFOhN1yEw_iCwvqnpQ3sWbAZMPI5tSV=w1200-h630-p-k-no-nu" group-title="Sports",Indian Premier League (Tata IPL)
+https://rebrand.ly/tanjim771/9699e8/channel-id-67914592227170103226
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD (1080p)
 http://103.166.253.222/hls/stersports1hd.m3u8
@@ -342,3 +348,6 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182617" group-title="Sports",BT Sports 2 HD (1080p)
 http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/BT_Sport_3_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182633" group-title="Indian Bangla",BT Sports 3 HD
+http://93.152.174.144:4000/play/btsport3/index.m3u8
