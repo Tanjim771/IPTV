@@ -23,7 +23,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV
-http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh",RTV HD (1080p)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
@@ -52,6 +52,15 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangladesh",GTV HD
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangladesh",GTV HD 2
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangladesh",GTV HD 3
+http://103.149.130.122:8089/1/index.m3u8
+
+#EXTINF: -1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="Bangladesh",GTV HD 4
+http://103.55.144.46/hls/Gazi-TV.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangladesh",Asian TV HD (480p)
 http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
 
@@ -59,13 +68,13 @@ http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://televisionbd.com/uploads/tv_image/deepto-tv.jpeg" group-title="Bangladesh",Deepto TV HD
-http://209.126.120.153:80/hls/deeptotv.m3u8
+http://103.149.130.122:8089/8/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="Bangladesh",Bangla TV (720p)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Bangladesh",Nagorik TV
-http://bciptv.net:8082/nagorik-tv/tracks-v1a1/mono.m3u8?token=b8e860359f1c610f26c008848d4020365b378cf9-f36e1025eadfb14d0e40fd401001a800-1643978792-1643967992
+http://103.149.130.122:8089/59/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangladesh",Ananda TV (720p)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
@@ -107,7 +116,10 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD (1080p)
-https://rebrand.ly/tanjim771/5fda9a/t-sportshd
+https://rebrand.ly/tanjim771/bc54c4/channel-id-29470650212524885962ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD 2 (1080p)
+http://103.55.144.46/hls/t-sports.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1260UNl.png" group-title="India",9X Jalwa (576p)
 http://14.199.164.20:4001/play/a0nc/index.m3u8
@@ -254,7 +266,7 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Indian Bangla",Colors Bangla HD (1080p)
-https://rebrand.ly/tanjim771/5d4f2a/colorsbanglahd
+https://rebrand.ly/tanjim771/11d932/channel-id-86545729967374377271cb
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (576p)
 http://14.199.164.20:4001/play/a0j5/index.m3u8
@@ -269,7 +281,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://208.86.19.21/908.stream/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest/scale-to-width-down/181?cb=20210520141819" group-title="Indian Bangla",Star Jalsha HD (1080p)
-https://rebrand.ly/tanjim771/e3c030/starjalshahd
+https://rebrand.ly/tanjim771/00016e/channel-id-31027308128797410849sj
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest/scale-to-width-down/181?cb=20210520141819" group-title="Indian Bangla",Star Jalsha HD 2 (1080p)
 https://rebrand.ly/tanjim771/ae30e2/channel-id-25489145071829131383
@@ -281,19 +293,19 @@ http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 http://103.205.133.48/hls/zeebangla.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/200?cb=20210509201933" group-title="Indian Bangla",Zee Bangla HD (1080p)
-https://rebrand.ly/tanjim771/396c25/zeebanglahd
+https://rebrand.ly/tanjim771/6ebe75/channel-id-35895911206413837830zb
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/300?cb=20210509174741" group-title="Indian Bangla",Zee 24 Ghanta (360p)
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_10.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla",Zee bangla Cinema (1080p)
-https://rebrand.ly/tanjim771/0fd820/zeebanglacinema
+http://103.149.130.122:8089/29/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/220?cb=20190806073703" group-title="Indian Bangla",Jalsha Movies HD (1080p)
-https://rebrand.ly/tanjim771/8db42e/jalshamovieshd
+https://rebrand.ly/tanjim771/43ade8/channel-id-78877971446678896897jm
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest/scale-to-width-down/190?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (1080p)
-https://rebrand.ly/tanjim771/947dc9/colorsbanglacinema
+https://rebrand.ly/tanjim771/3cda23/channel-id-29270774638502807853cb
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #1 (576p)
 https://rebrand.ly/tanjim771/271379/channel-id-14390379447332066611
@@ -329,19 +341,19 @@ http://80.237.96.66:9090/stream/channelid/1447584418.m3u8
 https://rebrand.ly/tanjim771/9699e8/channel-id-67914592227170103226
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD (1080p)
-http://103.166.253.222/hls/stersports1hd.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD (1080p)
-http://103.166.253.222/hls/starsports2.m3u8
+http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest/scale-to-width-down/230?cb=20200305070419" group-title="Sports",Star Sports 3 HD (1080p)
 http://demo.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD (1080p)
-http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="Sports",Star Sports Select 2 HD (1080p)
-http://103.166.253.222/hls/select2.m3u8
+http://103.55.144.46/hls/select2.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20191227182531" group-title="Sports",BT Sports 1 HD (1080p)
 http://93.152.174.144:4000/play/btsport1/index.m3u8
