@@ -139,10 +139,13 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" group-title="Bangladesh",Bijoy TV (720p)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD (1080p)
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports
+https://rebrand.ly/tanjim771/86f267/channel-id-23846705953837870052
+
+#EXTINF: -1 tvg-logo="https://en.shampratikdeshkal.com/uploads/2020/11/online/photos/download-5fa950aa5508c.png" group-title="Bangladesh",T Sports HD
 https://rebrand.ly/tanjim771/bc54c4/channel-id-29470650212524885962ts
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD [Server-2]
+#EXTINF: -1 tvg-logo="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/124285558_154429033054787_912765587628662429_n.png?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lCDkOf4xtU0AX9rwLWp&_nc_ht=scontent.fdac8-1.fna&oh=00_AT_iRELObyMU94LADdCeagBSYNJnhclAmbrQCpgvQYOvTg&oe=6275CB30" group-title="Bangladesh",T Sports HD [Server-2]
 http://103.55.144.46/hls/t-sports.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1260UNl.png" group-title="India",9X Jalwa (576p)
