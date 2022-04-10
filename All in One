@@ -142,8 +142,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports
 https://rebrand.ly/tanjim771/86f267/channel-id-23846705953837870052
 
-#EXTINF: -1 tvg-logo="https://en.shampratikdeshkal.com/uploads/2020/11/online/photos/download-5fa950aa5508c.png" group-title="Bangladesh",T Sports HD
-https://rebrand.ly/tanjim771/bc54c4/channel-id-29470650212524885962ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports HD
+https://rebrand.ly/tanjim771/7297f4/channel-id-35800370612138944302
 
 #EXTINF: -1 tvg-logo="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/124285558_154429033054787_912765587628662429_n.png?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lCDkOf4xtU0AX9rwLWp&_nc_ht=scontent.fdac8-1.fna&oh=00_AT_iRELObyMU94LADdCeagBSYNJnhclAmbrQCpgvQYOvTg&oe=6275CB30" group-title="Bangladesh",T Sports HD [Server-2]
 http://103.55.144.46/hls/t-sports.m3u8
@@ -293,7 +293,7 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Indian Bangla",Colors Bangla HD (1080p)
-https://rebrand.ly/tanjim771/11d932/channel-id-86545729967374377271cb
+https://rebrand.ly/tanjim771/11d932/channel-id-86545729967374377271
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (576p)
 http://14.199.164.20:4001/play/a0j5/index.m3u8
@@ -308,7 +308,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://208.86.19.21/908.stream/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest/scale-to-width-down/181?cb=20210520141819" group-title="Indian Bangla",Star Jalsha HD (1080p)
-https://rebrand.ly/tanjim771/00016e/channel-id-31027308128797410849sj
+https://rebrand.ly/tanjim771/00016e/channel-id-31027308128797410849
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest/scale-to-width-down/181?cb=20210520141819" group-title="Indian Bangla",Star Jalsha HD [Server-2]
 https://rebrand.ly/tanjim771/ae30e2/channel-id-25489145071829131383
@@ -323,7 +323,7 @@ http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 http://103.205.133.48/hls/zeebangla.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/200?cb=20210509201933" group-title="Indian Bangla",Zee Bangla HD (1080p)
-https://rebrand.ly/tanjim771/6ebe75/channel-id-35895911206413837830zb
+https://rebrand.ly/tanjim771/6ebe75/channel-id-35895911206413837830
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/200?cb=20210509201933" group-title="Indian Bangla",Zee Bangla HD [Server-2]
 http://103.135.133.21/hls/stream2.m3u8
@@ -335,10 +335,10 @@ https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/in
 http://103.149.130.122:8089/29/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/220?cb=20190806073703" group-title="Indian Bangla",Jalsha Movies HD (1080p)
-https://rebrand.ly/tanjim771/43ade8/channel-id-78877971446678896897jm
+https://rebrand.ly/tanjim771/43ade8/channel-id-78877971446678896897
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest/scale-to-width-down/190?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (1080p)
-https://rebrand.ly/tanjim771/3cda23/channel-id-29270774638502807853cb
+https://rebrand.ly/tanjim771/3cda23/channel-id-29270774638502807853
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #1 (576p)
 https://rebrand.ly/tanjim771/271379/channel-id-14390379447332066611
@@ -371,7 +371,7 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/npaY8scMVUjEZVSyS0
 http://80.237.96.66:9090/stream/channelid/1447584418.m3u8
 
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6kWuLVbI0aIpuAPvE_gra2AuVt0_6d24u-m10Axnql1DwhOWgnmwMRPuLTgKNrYUayQP527LkMJrVDTSrBF5WOOUF5cqaluAQBTP_2On7loi8jfxQGYhpy1B4gz4ShWlbtm2zvLZ-a23P0fPOEYvZeyUWXcFOhN1yEw_iCwvqnpQ3sWbAZMPI5tSV=w1200-h630-p-k-no-nu" group-title="Sports",Indian Premier League (Tata IPL)
-https://rebrand.ly/tanjim771/9699e8/channel-id-67914592227170103226
+https://rebrand.ly/tanjim771/f6edba/channel-id-08217548392972299844
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD (1080p)
 http://103.55.144.46/hls/stersports1hd.m3u8
@@ -381,9 +381,6 @@ http://103.135.133.21/hls/stream3.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD (1080p)
 http://103.55.144.46/hls/starsports2.m3u8
-
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest/scale-to-width-down/230?cb=20200305070419" group-title="Sports",Star Sports 3 HD (1080p)
-http://demo.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD (1080p)
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
