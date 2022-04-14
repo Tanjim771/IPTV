@@ -134,7 +134,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU" group-title="Bangladesh",Duronto TV (1080p)
-http://89.187.185.89:3232/ban-duronto/index.m3u8
+http://file.midiplexhd.com/hls/sky11.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" group-title="Bangladesh",Bijoy TV (720p)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
@@ -205,8 +205,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="India",B4U movies (576p)
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWoBtKGiQDAKCMd8MV8MrAg3ZDZOPGKAppfw_i2qXbEuC0z34f8Ek8cmO6wwlyKzGMf4&usqp=CAU" group-title="India",B4U Music (576p)
-http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWoBtKGiQDAKCMd8MV8MrAg3ZDZOPGKAppfw_i2qXbEuC0z34f8Ek8cmO6wwlyKzGMf4&usqp=CAU" group-title="India",B4U Music (480p)
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_480p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/B4U_Plus.jpeg/revision/latest?cb=20200225090223" group-title="India",B4U Plus (720p)
 http://14.199.164.20:4001/play/a0wi/index.m3u8
@@ -396,3 +396,33 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/BT_Sport_3_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182633" group-title="Indian Bangla",BT Sports 3 HD
 http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png/revision/latest/scale-to-width-down/240?cb=20200321210959" group-title="English",Animal Planet HD (1080p)
+https://rebrand.ly/tanjim771/b5fd39/channel-id-16237923854574080589
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English",Discovery Channel HD (1080p)
+https://rebrand.ly/tanjim771/8ca4f2/channel-id-33738862392357304099
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/300?cb=20171113181251" group-title="English",National Geographic HD (1080p)
+https://rebrand.ly/tanjim771/3037b0/channel-id-42872975797766522635
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png/revision/latest/scale-to-width-down/240?cb=20200321210959" group-title="English",Animal Planet HD (1080p)
+https://rebrand.ly/tanjim771/b5fd39/channel-id-16237923854574080589
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210726224754" group-title="Cartoon",Cartoon Network
+http://103.55.144.46/hls/cn.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Discovery-kids-latin-america.svg/revision/latest/scale-to-width-down/200?cb=20210603040410" group-title="Cartoon",Discovery Kids
+http://103.55.144.46/hls/dis-kid.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/300?cb=20180306141612" group-title="Cartoon",Nickelodeon
+http://109.105.205.250:8081/live/NICKELODEON/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/300?cb=20180306141612" group-title="Cartoon",Nick Hindi
+http://103.55.144.46/hls/nick.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/250?cb=20210604005749" group-title="Cartoon",Nick JR
+http://109.105.205.250:8081/live/NICKJR/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Pogo_2017.png/revision/latest/scale-to-width-down/250?cb=20170908084347" group-title="Cartoon",Pogo
+http://103.55.144.46/hls/pogo.m3u8
