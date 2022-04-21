@@ -332,7 +332,7 @@ http://103.135.133.21/hls/stream2.m3u8
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_10.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla",Zee bangla Cinema (1080p)
-http://103.149.130.122:8089/29/index.m3u8
+https://rebrand.ly/tanjim771/5b2320/channel-id-28357558024124477729
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/220?cb=20190806073703" group-title="Indian Bangla",Jalsha Movies HD (1080p)
 https://rebrand.ly/tanjim771/43ade8/channel-id-78877971446678896897
@@ -341,7 +341,7 @@ https://rebrand.ly/tanjim771/43ade8/channel-id-78877971446678896897
 https://rebrand.ly/tanjim771/3cda23/channel-id-29270774638502807853
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #1 (576p)
-https://rebrand.ly/tanjim771/271379/channel-id-14390379447332066611
+https://rebrand.ly/tanjim771/8e9aa0/channel_random
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #2 (1080p)
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
