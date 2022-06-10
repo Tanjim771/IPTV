@@ -25,6 +25,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesh",NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg" group-title="Bangladesh",NTV UK
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh",RTV HD (1080p)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
@@ -115,6 +118,18 @@ http://bdiptv.net:8082/DURONTO-TV/index.m3u8?
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" group-title="Bangladesh",Bijoy TV (720p)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",Atn Music (360p)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://st2.depositphotos.com/1152339/7096/i/950/depositphotos_70969439-stock-photo-web-design-concept-iptv-on.jpg" group-title="Bangladesh",Coming Soon
+https://bd.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg" group-title="Bangladesh",Can Bangla (720p)
+https://rebrand.ly/tanjim771/86f267/channel-id-23846705953837870052
+
+#EXTINF: -1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg" group-title="Bangladesh",Channel S UK (576p)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh",T Sports
 https://rebrand.ly/tanjim771/86f267/channel-id-23846705953837870052
 
@@ -123,15 +138,6 @@ https://rebrand.ly/tanjim771/7297f4/channel-id-35800370612138944302
 
 #EXTINF: -1 tvg-logo="https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/124285558_154429033054787_912765587628662429_n.png?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lCDkOf4xtU0AX9rwLWp&_nc_ht=scontent.fdac8-1.fna&oh=00_AT_iRELObyMU94LADdCeagBSYNJnhclAmbrQCpgvQYOvTg&oe=6275CB30" group-title="Bangladesh",T Sports HD [Server-2]
 http://bdiptv.net:8082/tsp/index.m3u8?
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/1260UNl.png" group-title="India",9X Jalwa (576p)
-http://14.199.164.20:4001/play/a0nc/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9xjhakaas-black.svg/revision/latest/scale-to-width-down/280?cb=20210508164415" group-title="India",9X Jhakaas (576p)
-http://14.199.164.20:4001/play/a0mx/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="India",9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2019/01/Aajtak-HD_8.jpg" group-title="India",Aaj Tak HD (720p)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -325,8 +331,8 @@ http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #3 (Auto)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #4 (1080p)
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ND073d1izAXPy4ikxPwsSATO1xTYe8dZQfvKk8VgErW4B02wiyjghM-o8xd6DhtPM13HB8LpaiH0k_JhCojezw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #4 (720p)
+http://185.145.43.244:8000/play/a008/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #5 (Auto)
 https://vkvsd52.mycdn.me/hls/2346562488856.m3u8/sig/l3n6e2eVb-8/expires/1648978845684/srcIp/103.251.59.60/clientType/13/srcAg/CHROME_ANDROID/mid/4012642282264/video.m3u8
@@ -345,9 +351,6 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/npaY8scMVUjEZVSyS0
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HyQKJ51.jpeg" group-title="Sports",Sports #10 (576p)
 http://80.237.96.66:9090/stream/channelid/1447584418.m3u8
-
-#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6kWuLVbI0aIpuAPvE_gra2AuVt0_6d24u-m10Axnql1DwhOWgnmwMRPuLTgKNrYUayQP527LkMJrVDTSrBF5WOOUF5cqaluAQBTP_2On7loi8jfxQGYhpy1B4gz4ShWlbtm2zvLZ-a23P0fPOEYvZeyUWXcFOhN1yEw_iCwvqnpQ3sWbAZMPI5tSV=w1200-h630-p-k-no-nu" group-title="Sports",Indian Premier League (Tata IPL)
-https://rebrand.ly/tanjim771/f6edba/channel-id-08217548392972299844
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD (1080p)
 http://103.167.190.250/hls/stersports1hd.m3u8
@@ -405,3 +408,19 @@ http://109.105.205.250:8081/live/NICKJR/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Pogo_2017.png/revision/latest/scale-to-width-down/250?cb=20170908084347" group-title="Cartoon",Pogo
 http://103.55.144.46/hls/pogo.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest/scale-to-width-down/250?cb=20191225165506" group-title="Music",7S Music (576p)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1260UNl.png" group-title="Music",9X Jalwa (576p)
+http://14.199.164.20:4001/play/a0nc/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/9xjhakaas-black.svg/revision/latest/scale-to-width-down/280?cb=20210508164415" group-title="Music",9X Jhakaas (576p)
+http://14.199.164.20:4001/play/a0mx/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="Music",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest?cb=20210825054606.png" group-title="Music",Sangeet Bangla (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
