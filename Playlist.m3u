@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest/scale-to-width-down/300?cb=20210409072736" group-title="Bangladesh",Bangladesh television (720p)
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/FXJ2g3m/BTV-WORLD-LOGO.jpg" group-title="Bangladesh",BTV World (1080p)
@@ -227,8 +226,12 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Ad_sport_3.png" group-title="Sports",AD Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/200?cb=20191203075048" group-title="English",Sony Pix HD
+http://103.55.144.46:80/hls/sonypixhd.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png/revision/latest/scale-to-width-down/300?cb=20110928174318" group-title="English",Star Movies HD
+http://103.55.144.46:80/hls/starmovies.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Animal_Planet_HD2.png/revision/latest/scale-to-width-down/240?cb=20200321210959" group-title="English",Animal Planet HD (1080p)
-https://rebrand.ly/tanjim771/b5fd39/channel-id-16237923854574080589
+http://103.55.144.46:80/hls/animalplanent.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png/revision/latest/scale-to-width-down/250?cb=20191130100054" group-title="English",Discovery Channel HD (1080p)
 https://rebrand.ly/tanjim771/8ca4f2/channel-id-33738862392357304099
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/National_Geographic_HD.svg/revision/latest/scale-to-width-down/300?cb=20171113181251" group-title="English",National Geographic HD (1080p)
