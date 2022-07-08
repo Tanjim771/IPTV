@@ -1,8 +1,20 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/14/Sun_Bangla_logo_%282019%29.png/revision/latest?cb=20210421015708" group-title="Bangla",Sun Bangla
 http://103.55.144.46/hls/sunbangla.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla",Independent Telivision
+http://103.55.144.46/hls/indepen.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Sony_aath.svg/revision/latest/scale-to-width-down/170?cb=20210509170513" group-title="Bangla",Sony Aath
 http://103.55.144.46/hls/Sony_Aath.m3u8
+#EXTINF: -1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="Bangla",Gazi TV HD
+http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRS_N5kWe_MExBd2a5ZbnfGM-bD8okthdpQqpRGhg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Ekattor TV HD
+http://103.55.144.46/hls/nexus.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla",Channel I HD
+http://103.55.144.46/hls/channeli.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga TV HD
+http://103.55.144.46/hls/masranga.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/2ZdMC3y/Somoy-TV-Logo-HD.jpg" group-title="Bangla",Somoy TV
+http://103.55.144.46/hls/somoy.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest/scale-to-width-down/150?cb=20200102200127" group-title="Bangla",Travel XP HD
 http://103.55.144.46/hls/travelxp.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Zee_bangla_cinema.png/revision/latest/scale-to-width-down/300?cb=20210509182053" group-title="Bangla",Zee Bangla Cinema
