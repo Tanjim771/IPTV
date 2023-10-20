@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/a955aab1-e98b-4596-a928-0f5e73ee4248/india-2023-logo.PNG?width=1920&height=1080" group-title="Sports",ICC World Cup AD-Free (Auto)
+https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest/scale-to-width-down/300?cb=20210409072736" group-title="Bangla",Bangladesh television (720p)
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FXJ2g3m/BTV-WORLD-LOGO.jpg" group-title="Bangla",BTV World (720p)
