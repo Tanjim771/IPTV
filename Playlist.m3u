@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/a955aab1-e98b-4596-a928-0f5e73ee4248/india-2023-logo.PNG?width=1920&height=1080" group-title="Sports",ICC World Cup AD-Free (Auto)
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Bangladesh_Television#/media/File:Bangladesh_Television_Logo.svg" group-title="Bangla",Bangladesh television (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bNpvQB/62823ed832b32411608aa858.png" group-title="Sports",ICC World Cup [Low-Latency]
+https://sportsleading.online/live/stream_e3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhk6z4M/20231021-121642.jpg" group-title="Sports",Hotstar Live Sports
+https://sportsleading.online/live/stream_e1_abr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b64CymS/20231021-122635.png" group-title="Bangla",Bangladesh television (720p)
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Bangla",BTV World (720p)
 http://103.106.2.152:13456/btv_world.m3u8
@@ -38,9 +42,9 @@ https://live.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",GTV (432p)
 https://cdn.rangdhanu.live/GaziTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="Bangla",GTV HD (1080p)
-http://103.180.112.66:8087/gtv/tracks-v1/index.fmp4.m3u8?token=7cc73345a8b8c5d8c316b81f1c3fb264e52dd118-523f0f088f17e2c0833a2580cc53be3e-1697715540-1697704740
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ooRZCM_DJZg/X7PdKdnMN9I/AAAAAAAAA4Q/V9XhubJfhNsbOaq-YVQP3tU1_tHjjjj-wCLcBGAsYHQ/s320/Gtv-live-cricket-logo.png" group-title="Bangla",GTV HD [Server-2]
-http://103.55.144.46:80/hls/Gazi-TV.m3u8
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV HD (1080p)
 https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRnQHs5kqHSl-LdD8iyVongJxeYEVLvE7C_PhJHrg=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",SA TV HD
@@ -67,7 +71,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://208.86.19.13:81/604.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Jamuna Telivision 24x7 (720p)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4stSSzp/News-24-Logo-HD-8g32f.jpg" group-title="Bangla",News 24 HD (1080p)
+#EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla",News 24 HD (1080p)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla",DBC News HD (1080p)
 https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -81,7 +85,7 @@ https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://previews.dropbox.com/p/thumb/ABl536dcVKH1ioFft6x9zKPz22goO3amiWW3rIEu7YG4Q91Gi3r0oyNUfw7xT0r9toPayFlTL-xW0Vc0oNopkrvzDlu3fWzzty1RbaHRvw8Pie_5YooA4ssJ1IrDjCLH11SRuZ0dQkYZQ34h9f3d-Tv2MmBniBOR0ehVhbDiDUDgW7Olh_fP-cexVkUwH6t8lcoVDy_zru8oThc7WeMucFaAJKEQCTtRPkQfBNAwX_8SaHf9-FuM7HLBQAfBXs0hEE7TH_uFoc6xtJQHFTC1b8sm5Z0KgH8c6tYz9qtruhOhJyr7GJ1EtOkREDzIv3dYCpWdmyi8miAzJdRqCBuzMDkrT6nsEs_Mx6YrnL51h0O7hqHq5KhBGC3loEIUmfe1QWY/p.jpeg" group-title="Bangla",Can Bangla
 https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Channel_S_Logo.SVG" group-title="Bangla",Channel S UK (576p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/640px-Channel_S_Logo.SVG.png" group-title="Bangla",Channel S UK (576p)
 https://live.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports
 https://rebrand.ly/tanjim771/86f267/channel-id-23846705953837870052
