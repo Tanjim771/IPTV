@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/a955aab1-e98b-4596-a928-0f5e73ee4248/india-2023-logo.PNG?width=1920&height=1080" group-title="Sports",ICC World Cup AD-Free (Auto)
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bNpvQB/62823ed832b32411608aa858.png" group-title="Sports",ICC World Cup [Low-Latency]
-https://sportsleading.online/live/stream_e3.m3u8
+http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhk6z4M/20231021-121642.jpg" group-title="Sports",Hotstar Live Sports
 https://sportsleading.online/live/stream_e1_abr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b64CymS/20231021-122635.png" group-title="Bangla",Bangladesh television (720p)
