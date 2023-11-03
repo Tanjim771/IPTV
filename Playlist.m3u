@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/a955aab1-e98b-4596-a928-0f5e73ee4248/india-2023-logo.PNG?width=1920&height=1080" group-title="Sports",ICC World Cup AD-Free (Auto)
+#EXTINF:-1 tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/a955aab1-e98b-4596-a928-0f5e73ee4248/india-2023-logo.PNG?width=1920&height=1080" group-title="Sports",ICC World Cup (Auto)
 https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bNpvQB/62823ed832b32411608aa858.png" group-title="Sports",ICC World Cup [Low-Latency]
-http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/2aF2Dntv7rCZFtD9jOXfqMSyj5eWfVtftgMDyYrkTIikOB3KHvEA6FRVAJJHe0-K5trNjhwiu2u2XmaEQTH-7Q/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhk6z4M/20231021-121642.jpg" group-title="Sports",Hotstar Live Sports
-https://sportsleading.online/live/stream_e1.m3u8
+https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b64CymS/20231021-122635.png" group-title="Bangla",Bangladesh television (720p)
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Bangla",BTV World (720p)
@@ -219,8 +219,10 @@ http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
 http://103.55.144.46:80/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest/scale-to-width-down/190?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (1080p)
 http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png" group-title="Sports",Star Sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD (1080p)
-https://rebrand.ly/tanjim771/6ca9cb/play/StarSports1HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD (1080p)
 http://103.55.144.46:80/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/220?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD (1080p)
